@@ -1,0 +1,32 @@
+{
+  "_note": "Verify spelling and pronunciation with a native Tamil speaker before recording reference audio.",
+  "items": [
+    { "id": "w01", "type": "word", "category": "body_parts", "tamil_text": "கை", "transliteration": "kai", "english_gloss": "hand" },
+    { "id": "w02", "type": "word", "category": "body_parts", "tamil_text": "கால்", "transliteration": "kaal", "english_gloss": "leg" },
+    { "id": "w03", "type": "word", "category": "body_parts", "tamil_text": "கண்", "transliteration": "kann", "english_gloss": "eye" },
+    { "id": "w04", "type": "word", "category": "body_parts", "tamil_text": "மூக்கு", "transliteration": "mookku", "english_gloss": "nose" },
+    { "id": "w09", "type": "word", "category": "animals", "tamil_text": "நாய்", "transliteration": "naai", "english_gloss": "dog" },
+    { "id": "w10", "type": "word", "category": "animals", "tamil_text": "பூனை", "transliteration": "poonai", "english_gloss": "cat" },
+    { "id": "w11", "type": "word", "category": "animals", "tamil_text": "மாடு", "transliteration": "maadu", "english_gloss": "cow" },
+    { "id": "w12", "type": "word", "category": "animals", "tamil_text": "குருவி", "transliteration": "kuruvi", "english_gloss": "bird" },
+    { "id": "w13", "type": "word", "category": "objects", "tamil_text": "பந்து", "transliteration": "pandhu", "english_gloss": "ball" },
+    { "id": "w14", "type": "word", "category": "objects", "tamil_text": "புத்தகம்", "transliteration": "puthagam", "english_gloss": "book" },
+    { "id": "w15", "type": "word", "category": "objects", "tamil_text": "தண்ணீர்", "transliteration": "thanneer", "english_gloss": "water" },
+    { "id": "w16", "type": "word", "category": "objects", "tamil_text": "பழம்", "transliteration": "pazham", "english_gloss": "fruit" },
+    { "id": "w17", "type": "word", "category": "objects", "tamil_text": "வீடு", "transliteration": "veedu", "english_gloss": "house" },
+
+    { "id": "w27", "type": "phrase", "category": "adjective+noun", "tamil_text": "பெரிய பந்து", "transliteration": "periya pandhu", "english_gloss": "big ball" },
+    { "id": "w28", "type": "phrase", "category": "adjective+noun", "tamil_text": "சின்ன நாய்", "transliteration": "chinna naai", "english_gloss": "small dog" },
+    { "id": "w29", "type": "phrase", "category": "adjective+noun", "tamil_text": "சூடான பால்", "transliteration": "soodaana paal", "english_gloss": "hot milk" },
+    { "id": "w30", "type": "phrase", "category": "adjective+noun", "tamil_text": "பழைய புத்தகம்", "transliteration": "pazhaiya puthagam", "english_gloss": "old book" },
+
+    { "id": "w31", "type": "phrase", "category": "adverb+action", "tamil_text": "வேகமா வா", "transliteration": "vegamaa vaa", "english_gloss": "come fast" },
+    { "id": "w32", "type": "phrase", "category": "adverb+action", "tamil_text": "மெதுவா நட", "transliteration": "medhuvaa nada", "english_gloss": "walk slowly" },
+
+    { "id": "w33", "type": "phrase", "category": "preposition+action", "tamil_text": "மேலே பாரு", "transliteration": "mele paaru", "english_gloss": "look up" },
+    { "id": "w34", "type": "phrase", "category": "preposition+noun", "tamil_text": "புத்தகம் கீழே", "transliteration": "puthagam keezhe", "english_gloss": "book below" },
+
+    { "id": "w37", "type": "phrase", "category": "wh_question", "tamil_text": "பொம்மை எங்கே", "transliteration": "bommai enge", "english_gloss": "where is the toy" },
+    { "id": "w38", "type": "phrase", "category": "wh_question", "tamil_text": "யார் அது", "transliteration": "yaar athu", "english_gloss": "who is that" }
+  ]
+}
